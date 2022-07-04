@@ -6,7 +6,7 @@ I also have experience developing hybrid and native mobile applications using Re
 
 Worked too on IOT projecets using Arduino with bluetooth, GSM and Satellite communication.
 
-- Fullstack JS developre at [Clevertech](https://www.linkedin.com/company/clevertech/)
+- Fullstack JS developer at [Clevertech](https://www.linkedin.com/company/clevertech/)
 - Founder and Technical Leader at [Concordia Labs](https://www.linkedin.com/company/concordia-labs/)
 
 ___
